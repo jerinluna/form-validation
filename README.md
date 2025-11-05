@@ -1,3 +1,3 @@
-https://jerinluna.github.io/bootstrap-form/
+https://jerinluna.github.io/form-validation/
 # bootstrap-form
 html,css,js,validation
